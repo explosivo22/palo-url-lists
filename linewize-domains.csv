@@ -16,6 +16,11 @@ home.tools
 qoria-mza-auto-update.linewize.net
 us.classwize.qoria.cloud
 us.schoolmanager.qoria.cloud
+*.smoothwall.cloud/*
+*.qoriaapis.cloud/*
+*.ably.io/*
+*.ably-realtime.com/*
+*.xirsys.com 1/*
 *.stream-io-api.com/*
 *.stream-io-video.com/*
 *.stream-io-cdn.com/*
