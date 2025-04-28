@@ -20,9 +20,19 @@ us.schoolmanager.qoria.cloud
 *.qoriaapis.cloud/*
 *.ably.io/*
 *.ably-realtime.com/*
-*.xirsys.com 1/*
+*.xirsys.com/*
 *.stream-io-api.com/*
 *.stream-io-video.com/*
 *.stream-io-cdn.com/*
 *.getstream.io/*
 *.qoria.cloud/*
+*.smoothwall.cloud/*
+vclient-api.smoothwall.com (UK, Australia, New Zealand)
+vclient-api-us.smoothwall.com (US)
+*.qoria.cloud/*
+*.educatorimpact.com (Australia, New Zealand, Asia)/*
+*.linewize.io (Americas)/*
+*.smoothwall.cloud (UK, Europe, Middle East)/*
+*.zdassets.com/*
+eipulse.zendesk.com
+fonts.gstatic.com
